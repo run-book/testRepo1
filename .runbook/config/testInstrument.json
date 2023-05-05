@@ -1,6 +1,6 @@
 {
   "instrument": {
-    "jstest/test": {
+    "jstest/test1": {
       "type":        "js",
       "repo":        "git@github.com:run-book/testRepo1.git",
       "command":     "testInstrument",
